@@ -4,7 +4,7 @@
 
 Unique Food is a platform designed to encourage people to try unconventional and creative food combinations. The goal is to spark curiosity and fun by allowing users to share, discover, and experiment with unique food pairings from around the world.
 
-🚀 Features
+🚀 Feature
 
 🔥 User-Generated Content
 
